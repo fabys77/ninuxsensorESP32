@@ -12,10 +12,10 @@ General purpose Sensor Client fon Ninux Sensor Network using ESP32 platform
 
 ### Software Requirements
 1. Configuration Provisioning via Wifi and save parameter in NVRAM 
-1. connection mode:
+1. Network connection configurable mode:
    1. Wifi/MQTT only
    1. LoraWan only
    1. Wifi/MQTT - LoraWan failover
-   1. LoraWan - Wifi/MQTT
+   1. LoraWan - Wifi/MQTT failover
 1. Display Message helper
 
